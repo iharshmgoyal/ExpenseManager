@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="transaction_name">Transaction Name</string>
+    <string name="amount">Amount</string>
+    <string name="account">Account</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="reason_of_transaction">Reason of Transaction</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="view_all_transaction">View All Transaction</string>
+    <string name="last_balance">Last Balance</string>
+    <string name="choice_made">Choice Made</string>
+
+    <string-array name="accountArray">
+        <item>Select Account</item>
+        <item>ICICI Bank</item>
+        <item>Kotak Mahindra Bank</item>
+    </string-array>
+</resources>
